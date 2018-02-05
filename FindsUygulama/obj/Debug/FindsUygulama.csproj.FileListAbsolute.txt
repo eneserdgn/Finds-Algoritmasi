@@ -1,0 +1,10 @@
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\bin\Debug\FindsUygulama.exe.config
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\bin\Debug\FindsUygulama.exe
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\bin\Debug\FindsUygulama.pdb
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\obj\Debug\FindsUygulama.csprojResolveAssemblyReference.cache
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\obj\Debug\FindsUygulama.Form1.resources
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\obj\Debug\FindsUygulama.Properties.Resources.resources
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\obj\Debug\FindsUygulama.csproj.GenerateResource.Cache
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\obj\Debug\FindsUygulama.csproj.CoreCompileInputs.cache
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\obj\Debug\FindsUygulama.exe
+C:\Users\enese\Desktop\DERSLER\Yapay Zeka\FindsUygulama\FindsUygulama\obj\Debug\FindsUygulama.pdb
